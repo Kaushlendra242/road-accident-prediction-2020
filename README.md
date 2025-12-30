@@ -1,6 +1,8 @@
 # 🚦 Road Accident Analysis & Incident Count Prediction – India 2020
 
+### **## 🚀 Live Demo:** 
 
+➡️ *[https://road-accident-prediction-2020-datascientist-kp-singh.streamlit.app/]*
 
 ### 🔍 Machine Learning + Streamlit Web App  
 Predicting road accident incident counts across India's million-plus cities using **CatBoost**, **EDA**, and **interactive deployment**.
@@ -96,8 +98,6 @@ Regression (predicting `Count`)
 
 ## 🚀 Streamlit Deployment
 
-### **Live App (After Deployment):**  
-➡️ *[https://road-accident-prediction-2020-datascientist-kp-singh.streamlit.app/]*
 
 ### **To run locally:**
 
